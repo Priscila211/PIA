@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+
+<img src="http://facpya.uanl.mx/wp-content/uploads/2017/08/logo-facpya.png" alt="No se puede mostrar la imagen" style="width:200px;height:100px;" align = "left">
+
+<strong> UNIVERSIDAD AUTONOMA DE NUEVO LEON</strong>
+
+
+
+<img src="https://www.uanl.mx/wp-content/uploads/2019/03/logotipo-uanl-prefooter.png" alt="Girl in a jacket" style="width:200px;height:100px;" >
+
+<p>                   </p>
+
+<strong>                        Facultad de Contaduria Publica y Administracion </strong>
+
+<p>SISTEMAS DE INFORMACION IV</p>
+
+<p>PIA</p>
+<p> Priscila Yahamilet Lopez Ortiz </p>
+<p> 1830630 </p>
+<p>Grupo 52</p>
+<p> MT. Juan Manuel Vazquez Hernandez</p>
+
+
+
+</body>
+
+<body style="background-color:powderblue;">
+
+</body>
+
+
+
+</html>
+
